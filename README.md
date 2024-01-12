@@ -1,10 +1,10 @@
-# Mrx-random 
+# Mrx-Random 
 
-rm -rf Mrx-random
+rm -rf Mrx-Random
 
 git clone https://github.com/MENAYAT0078/Mrx-Random.git
 
-cd Mrx-random
+cd Mrx-Random
 
 ls
 
